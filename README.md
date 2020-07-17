@@ -1,4 +1,11 @@
-### Hi there 👋
+### Mohd Aquib
+
+#### Hi there 👋
+<p>
+  <em>
+    I am pursuing  Master in Computer Science and Application from Aligarh Muslim University.
+  </em>  
+</p>
 
 
 
