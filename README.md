@@ -25,4 +25,5 @@
   <a href="mailto:mohdaquib31@gmail.com">
     <img align="left" alt="Mohd Aquib | Gmail" width="26px" src="https://github.com/AquibPy/AquibPy/blob/master/Assets/Gmail.svg" />
   </a>
-![](https://komarev.com/ghpvc/?username=AquibPy&color=green)
+  <br>
+![Profile Views](https://komarev.com/ghpvc/?username=AquibPy&color=green)
