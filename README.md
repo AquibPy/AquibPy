@@ -26,4 +26,6 @@
     <img align="left" alt="Mohd Aquib | Gmail" width="26px" src="https://github.com/AquibPy/AquibPy/blob/master/Assets/Gmail.svg" />
   </a>
   <br>
-![Profile Views](https://komarev.com/ghpvc/?username=AquibPy&color=green)
+  
+    ![Profile Views](https://komarev.com/ghpvc/?username=AquibPy&color=green)
+
