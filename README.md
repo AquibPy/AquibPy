@@ -27,5 +27,5 @@
   </a>
   <br>
   
-    ![Profile Views](https://komarev.com/ghpvc/?username=AquibPy&color=green)
+   ![Profile Views](https://komarev.com/ghpvc/?username=AquibPy&color=green)
 
