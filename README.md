@@ -7,7 +7,7 @@
   </em>  
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AquibPy&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AquibPy&langs_count=08&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
 [![Aquib's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AquibPy)](https://github.com/anuraghazra/github-readme-stats)
