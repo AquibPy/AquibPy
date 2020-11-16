@@ -9,7 +9,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AquibPy)](https://github.com/anuraghazra/github-readme-stats)
 
-![Aquib's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=gradient)
+![Aquib's github stats](https://github-readme-stats.vercel.app/api?username=AquibPy&show_icons=true&theme=gradient)
 
 <br>
 
