@@ -6,7 +6,8 @@
     I am pursuing  Master in Computer Science and Application from Aligarh Muslim University.
   </em>  
 </p>
-![Alt Text](https://media.giphy.com/media/521ZSoqh4HByvyF6MS/giphy.gif)
+
+![ML](https://media.giphy.com/media/521ZSoqh4HByvyF6MS/giphy.gif)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AquibPy&langs_count=08&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
