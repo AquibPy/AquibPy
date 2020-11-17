@@ -7,7 +7,7 @@
   </em>  
 </p>
 
-![ML](https://media.giphy.com/media/521ZSoqh4HByvyF6MS/giphy.gif)
+![ML](https://theintercept.imgix.net/wp-uploads/sites/1/2018/03/Intercept_FB_3-1521757151.gif)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AquibPy&langs_count=08&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
