@@ -12,7 +12,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AquibPy&langs_count=08&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Aquib)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Aquib&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Aquib's github stats](https://github-readme-stats.vercel.app/api?username=AquibPy&show_icons=true&theme=onedark)
 
