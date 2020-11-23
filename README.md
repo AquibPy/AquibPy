@@ -9,7 +9,7 @@
 
 ![ML](https://theintercept.imgix.net/wp-uploads/sites/1/2018/03/Intercept_FB_3-1521757151.gif)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AquibPy&langs_count=08&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AquibPy&langs_count=07&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Aquib&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
