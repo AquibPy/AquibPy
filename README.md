@@ -29,9 +29,8 @@
   </a>
   <a href="mailto:mohdaquib31@gmail.com">
     <img align="left" alt="Mohd Aquib | Gmail" width="26px" src="https://github.com/AquibPy/AquibPy/blob/master/Assets/Gmail.svg" />
-  </a>
-   <a href="https://dev.to/aquibpy">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Mohd Aquib's DEV Profile"  width="26">
+  <a href="https://dev.to/aquibpy">
+  <i class="fab fa-dev" title="aquibpy's DEV Profile"></i>
 </a>
   <br>
   <br>
