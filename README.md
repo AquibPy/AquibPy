@@ -1,48 +1,60 @@
-### Mohd Aquib
+<div align="center">
+<img width="100%" height = "250px" src="https://media-exp3.licdn.com/dms/image/C4D16AQGaFImFqfGFRA/profile-displaybackgroundimage-shrink_350_1400/0/1603806797103?e=1629331200&v=beta&t=7gtB_pgfFthT3hyPBqzOJ8vbJvY-r6MYfwZdLYZtNC8" alt="cover" />
+</div>
 
-#### Hi there 👋
-<p>
-  <em>
-    I am pursuing  Master in Computer Science and Application from Aligarh Muslim University.
-  </em>  
-</p>
+<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h2> Hi! My name is Mohd Aquib. Thank You for taking the time to view my GitHub Profile.</h2>
+<p align='center'>
+<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
-![ML](https://theintercept.imgix.net/wp-uploads/sites/1/2018/03/Intercept_FB_3-1521757151.gif)
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+
+- 🔭 I’m currently working on Research Project in Fatima Fellowship 2021
+
+- 🌱 I’m currently learning Generative Adversarial Networks 
+
+- 👯 I’m looking to collaborate on Projects,Tech Articles 
+
+- 💬 Talk to me about Python, Machine Learning, Deep Learning 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aquibpy" alt="aquibpy" /></a> </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AquibPy&langs_count=07&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<a href= https://github.com/AquibPy?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
+<a href= https://github.com/AquibPy?tab=repositories&q=&type=&language=scikit&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg'> </a>
+<a href= https://github.com/AquibPy?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
+<a href= https://github.com/AquibPy?tab=repositories&q=&type=&language=pytorch&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg'> </a>
+<a href= https://github.com/AquibPy?tab=repositories&q=&type=&language=tensorflow&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tensorflow.svg'> </a>
+<a href= https://github.com/AquibPy?tab=repositories&q=&type=&language=heroku&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/heroku.svg'> </a>
+<a href= https://github.com/AquibPy?tab=repositories&q=&type=&language=git&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
+<a href= https://github.com/AquibPy?tab=repositories&q=&type=&language=github&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </a>
+
+
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<a href = 'https://www.linkedin.com/in/mohd-aquib-182b2a71'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://www.twitter.com/AquibPy'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
+<a href = 'https://www.kaggle.com/aquib5559'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
+<a href = 'https://www.github.com/AquibPy'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+
+
+<h2> Stuff I worked on  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Aquib&compact=True"/>
+</a>
 <br>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Aquib&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+# Most Language Used
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AquibPy&langs_count=07&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+# My GitHub Stats
 ![Aquib's github stats](https://github-readme-stats.vercel.app/api?username=AquibPy&show_icons=true&theme=onedark)
 
 <br>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-# Contact with me :
-
-  <a href="https://www.linkedin.com/in/mohd-aquib-182b2a71/">
-    <img align="left" alt="Mohd Aquib | Linkedin" width="24px" src="https://github.com/AquibPy/AquibPy/blob/master/Assets/Linkedin.svg" />
-  </a>
-  <a href="https://twitter.com/AquibPy">
-    <img align="left" alt="Mohd Aquib | Twitter" width="26px" src="https://github.com/AquibPy/AquibPy/blob/master/Assets/Twitter.svg" />
-  </a>
-  <a href="https://www.instagram.com/aquib_0302/?hl=en">
-    <img align="left" alt="Mohd Aquib | Instagram" width="24px" src="https://github.com/AquibPy/AquibPy/blob/master/Assets/Instagram.svg" />
-  </a>
-  <a href="mailto:mohdaquib31@gmail.com">
-    <img align="left" alt="Mohd Aquib | Gmail" width="26px" src="https://github.com/AquibPy/AquibPy/blob/master/Assets/Gmail.svg" />
-<a href="https://dev.to/aquibpy">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Mohd Aquib's DEV Profile" height="30" width="30">
-</a>
   <br>
   <br>
-  
-  
   
    ![Profile Views](https://komarev.com/ghpvc/?username=AquibPy&color=green)
 
