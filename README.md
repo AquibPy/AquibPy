@@ -10,7 +10,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on Research Project in Fatima Fellowship 2021
+- 🔭 I’m currently working as an Intern in Wobot Intelligence
 
 - 🌱 I’m currently learning Generative Adversarial Networks 
 
