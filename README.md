@@ -10,7 +10,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working as a Junior Data Scientist in SatSure Analytics
+- 🔭 I’m currently working as a Data Scientist in Absolute Foods
 
 - 🌱 I’m currently learning Generative Adversarial Networks 
 
