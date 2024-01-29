@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working as a Data Scientist in Extreme Networks
 
-- 🌱 I’m currently learning Generative Adversarial Networks 
+- 🌱 I’m currently learning Generative AI 
 
 - 👯 I’m looking to collaborate on Projects,Tech Articles 
 
