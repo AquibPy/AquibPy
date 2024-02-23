@@ -14,9 +14,9 @@
 
 - 🌱 I’m currently learning Generative AI 
 
-- 👯 I’m looking to collaborate on Projects,Tech Articles 
+- 👯 I’m looking to collaborate on Projects, Tech Articles 
 
-- 💬 Talk to me about Python, Machine Learning, Deep Learning 
+- 💬 Talk to me about Python, Machine Learning, Deep Learning, LLMs, Generative AI 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aquibpy" alt="aquibpy" /></a> </p>
 
@@ -55,6 +55,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AquibPy&langs_count=07&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 # My GitHub Stats
+![](https://github-readme-streak-stats.herokuapp.com/?user=AquibPy&theme=dark&hide_border=false)<br/>
 ![Aquib's github stats](https://github-readme-stats.vercel.app/api?username=AquibPy&show_icons=true&theme=onedark)
 
 <br>
