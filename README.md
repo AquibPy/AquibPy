@@ -58,6 +58,12 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AquibPy&theme=dark&hide_border=false)<br/>
 ![Aquib's github stats](https://github-readme-stats.vercel.app/api?username=AquibPy&show_icons=true&theme=onedark)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px"/>
+
 <br>
   <br>
   <br>
