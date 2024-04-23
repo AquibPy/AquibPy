@@ -62,8 +62,14 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AquibPy&langs_count=07&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 # My GitHub Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=AquibPy&theme=dark&hide_border=false)<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AquibPy&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AquibPy&theme=nord">
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AquibPy&theme=nord_dark">
+
 ![Aquib's github stats](https://github-readme-stats.vercel.app/api?username=AquibPy&show_icons=true&theme=onedark)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
