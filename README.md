@@ -4,10 +4,16 @@
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <h2> Hi! My name is Mohd Aquib. Thank You for taking the time to view my GitHub Profile.</h2>
+
 <p align='center'>
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=3000&pause=500&color=FDFEFE&background=2A2E3425&center=true&vCenter=true&&lines=Data+Scientist;AI+Developer;LLMops;Backend+Developer;Open-Source+Contributor;Freelancer;)](https://git.io/typing-svg)
+
+</div>
 
 
 - 🔭 I’m currently working as a Data Scientist in Extreme Networks
